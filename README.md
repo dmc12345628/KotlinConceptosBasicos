@@ -8,7 +8,7 @@
 5. [Enumerados](https://github.com/dmc12345628/KotlinConceptosBasicos/blob/master/subjects/enumeradores.md)
 6. [Controles de flujo](https://github.com/dmc12345628/KotlinConceptosBasicos/blob/master/subjects/controles%20de%20flujo.md)
 7.  [Kotlin Android Extensions](https://github.com/dmc12345628/KotlinConceptosBasicos/blob/master/subjects/kotlin%20android%20extensions.md)
-8.  [Funciones ninja](https://github.com/dmc12345628/KotlinConceptosBasicos/blob/master/subjects/funciones%ninja.md)
+8.  [Funciones ninja](https://github.com/dmc12345628/KotlinConceptosBasicos/blob/master/subjects/funciones%20ninja.md)
 9.  [Lambdas](https://github.com/dmc12345628/KotlinConceptosBasicos/blob/master/subjects/lambdas.md)
 10. [Delegación de propiedades](https://github.com/dmc12345628/KotlinConceptosBasicos/blob/master/subjects/delegacion%20de%20propiedades.md)
 11. [Colecciones y rangos](https://github.com/dmc12345628/KotlinConceptosBasicos/blob/master/subjects/colecciones%20y%20rangos.md)
