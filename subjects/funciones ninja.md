@@ -31,3 +31,13 @@ val textView = TextView(this).apply {
     }
 }
 ```
+
+## Let
+
+Al tratar de nulos, nos permite ejecutar algo sólo si ese valor es nulo.
+
+```kotlin
+textView?.text?.let {
+    toast(it.toString())
+}
+```
